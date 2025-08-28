@@ -1,3 +1,3 @@
 Successfully parsed 3 points from testcase1.json
 
- The calculated secret (c) is: 2
+ The calculated secret (c) is: 3
